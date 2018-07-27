@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/boxes">
+        <file>icons/box1.png</file>
+        <file>icons/box2.png</file>
+        <file>icons/box3.png</file>
+        <file>icons/box4.png</file>
+        <file>icons/box5.png</file>
+        <file>icons/zip_box.png</file>
+        <file>icons/zip_box_1.png</file>
+        <file>icons/zip_box_2.png</file>
+        <file>icons/zip_box_3.png</file>
+        <file>icons/zip_box_4.png</file>
+        <file>icons/zip_box_5.png</file>
+    </qresource>
+</RCC>
